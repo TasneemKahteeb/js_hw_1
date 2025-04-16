@@ -83,18 +83,18 @@ login == "Employee"
       : message = "";
 
 //Ex7
-
+/*
 1 - 'sdf'
 2 - false
 3 - true
-4 - ' '
+4 - '' //Empty string
 5 - null
 6 - null
 7 - undefined
 8 - 1
 9 - 1
 10 - 1
-
+*/
 
 //                                                                                                      Loops
 
